@@ -1,3 +1,14 @@
+#Portfolio website 
+
+###Techologies used:
+-html
+-bootstrap
+bootstrap
+javascript
+
+
+
+
 ## particles.js
 
 ### A lightweight JavaScript library for creating particles.
