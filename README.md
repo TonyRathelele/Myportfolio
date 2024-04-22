@@ -1,6 +1,6 @@
-#Portfolio website 
+# Portfolio website 
 
-###Techologies used:
+### echologies used:
 -html
 -bootstrap
 bootstrap
